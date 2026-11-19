@@ -1,0 +1,4 @@
+station_id,area_id,instrument,valid_from,valid_to
+S01,North,PM25-A,2025-01-01,2026-03-31
+S01,North,PM25-B,2026-04-01,
+S02,South,PM25-A,2025-01-01,

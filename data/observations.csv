@@ -1,0 +1,4 @@
+station_id,date,pm25,valid_hours,quality_flag
+S01,2026-03-15,31.2,24,valid
+S01,2026-04-15,22.8,24,valid
+S02,2026-04-15,,0,missing
