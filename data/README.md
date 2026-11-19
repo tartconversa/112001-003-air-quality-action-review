@@ -1,5 +1,5 @@
-# Synthetic input data
+# 合成输入数据
 
-Synthetic monitoring, weather and mitigation records for interpreting regional air-quality trends.
+用于解释区域空气质量变化的合成监测、气象与治理记录。
 
-All records are fictional and intended only for local development. Dates and measurements are illustrative.
+所有记录均为虚构，仅供本地开发使用。日期与数值均为示例。
