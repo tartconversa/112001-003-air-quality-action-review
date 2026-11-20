@@ -1,0 +1,4 @@
+action_id,action_type,area_scope,start,end,description
+A01,boiler_upgrade,North,2026-02-01,2026-03-01,北区锅炉低氮改造
+A02,road_dust_control,North;East,2026-04-10,2026-04-30,道路扬尘联合治理（跨区域）
+A03,inspection,South,2026-04-14,2026-04-20,南区企业专项检查

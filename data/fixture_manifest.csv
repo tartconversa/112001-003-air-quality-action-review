@@ -1,4 +1,6 @@
 dataset,records,purpose
-stations.csv,3,stations
-observations.csv,3,observations
-weather_actions.csv,3,weather_actions
+stations.csv,5,站点仪器/点位有效期（含仪器更换与迁址事件）
+observations.csv,453,逐日 PM2.5 观测 v1（含 S02 三月缺测与 S01 待更正值）
+weather.csv,453,区域逐日气象（气温/风速/降雨）
+actions.csv,3,治理行动及适用区域范围
+backfill/observations.csv,9,补录与更正（obs_version=2）
